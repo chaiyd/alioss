@@ -17,7 +17,7 @@ require (
 
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
-	github.com/aliyun/aliyun-log-go-sdk v0.1.85
+	github.com/aliyun/aliyun-log-go-sdk v0.1.96
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/distribution/reference v0.5.0 // indirect
 	github.com/docker/docker v27.3.1+incompatible
